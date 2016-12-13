@@ -44,7 +44,7 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 30%;
+    font-size: 100%;
     font: inherit;
     vertical-align: baseline;
 }
@@ -290,8 +290,8 @@ a:focus {
 #big {
     width: 600px;
     text-align: center;
-    font-size: 60px;
-    line-height: 1;
+    font-size: 45px;
+    line-height: 3;
 }
 
 #big b {
